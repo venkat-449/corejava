@@ -7,5 +7,6 @@ public class Test {
 		System.out.println("core java projects");
 
 		System.err.println("java projects explanation");
+		System.out.println("hello world");
 	}
 }
